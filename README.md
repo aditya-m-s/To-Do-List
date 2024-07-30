@@ -23,7 +23,7 @@ This To-Do List App helps you manage tasks efficiently with features to add, del
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aditya-m-s/To-Do-List.git
+   https://github.com/aditya-m-s/To-Do-List.git
    ```
 
 2. Navigate to the project directory:
